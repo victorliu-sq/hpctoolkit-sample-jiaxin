@@ -1,9 +1,0 @@
-/home/liu.11080/hpctoolkit-sample-jiaxin/hpc_example
-/home/liu.11080/packages/spack/opt/spack/linux-ubuntu20.04-skylake/gcc-9.4.0/hpctoolkit-2023.08.1-tnab2cygua6sjafjxecguz46n2y5fv3u/lib/hpctoolkit/libhpcrun.so
-/usr/lib/x86_64-linux-gnu/libc-2.31.so
-/home/liu.11080/hpctoolkit-sample-jiaxin/out.m/gpubins/85cb18d2fb8e6ebb32371d311ee3eb36.gpubin
-/home/liu.11080/packages/spack/opt/spack/linux-ubuntu20.04-skylake/gcc-9.4.0/hpctoolkit-2023.08.1-tnab2cygua6sjafjxecguz46n2y5fv3u/lib/hpctoolkit/ext-libs/libmonitor.so.0.0.0
-/usr/lib/x86_64-linux-gnu/libpthread-2.31.so
-/home/liu.11080/packages/spack/opt/spack/linux-ubuntu20.04-skylake/gcc-9.4.0/cuda-11.8.0-wjwhenkd332evopjfjafjqbsduzezzji/extras/CUPTI/lib64/libnvperf_host.so
-/usr/lib/x86_64-linux-gnu/libcuda.so.545.23.08
-/home/liu.11080/packages/spack/opt/spack/linux-ubuntu20.04-skylake/gcc-9.4.0/cuda-11.8.0-wjwhenkd332evopjfjafjqbsduzezzji/extras/CUPTI/lib64/libcupti.so.2022.3.0
