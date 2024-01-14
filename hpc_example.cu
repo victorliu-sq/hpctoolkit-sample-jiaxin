@@ -7,7 +7,7 @@
 #include <mpi.h>
 #endif
 
-#include "../utils/common.h"
+#include "common.h"
 
 static size_t N = 1000;
 

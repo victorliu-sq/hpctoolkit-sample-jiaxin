@@ -3,7 +3,7 @@ CC=nvcc
 INCLUDES=-I$(CUDA_HOME)/extras/CUPTI/include 
 LINK=-L$(CUDA_HOME)/extras/CUPTI/lib64
 
-ARCH=-arch sm_70
+ARCH=-arch sm_86
 
 LIBS=-lcuda -lcupti -lstdc++ -lm
 
